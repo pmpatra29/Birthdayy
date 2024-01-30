@@ -280,6 +280,7 @@ window.onload = function () {
 
 };
 
+
 function reveal() {
   // Play background music
   var backgroundMusic = document.getElementById('backgroundMusic');
